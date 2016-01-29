@@ -20,7 +20,7 @@ Build a full stack JavaScript app that is functionally similar to this: https://
 ## Technologies
 * NodeJS
 * Express
-* Clementine.
+* Clementine.js
 
 ## License
 
